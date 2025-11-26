@@ -1,5 +1,3 @@
-Pandas
-NumPy
 Scikit-learn
 Flask
 HTML
