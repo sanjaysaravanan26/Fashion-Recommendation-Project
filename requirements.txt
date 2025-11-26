@@ -3,4 +3,5 @@ Pandas
 NumPy
 Scikit-learn
 Flask
-HTML, CSS
+HTML
+CSS
