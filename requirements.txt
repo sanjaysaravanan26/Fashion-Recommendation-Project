@@ -1,0 +1,5 @@
+Python
+Pandas, NumPy
+Scikit-learn
+Flask
+HTML, CSS
