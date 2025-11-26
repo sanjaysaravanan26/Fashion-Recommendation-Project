@@ -16,6 +16,6 @@ A content-based fashion recommendation system that suggests similar fashion prod
 3. Results are shown with product image, brand, and description.
 
 ## 📷 Sample Output
-![Fashion Output](fasion_recommendition_output)
+![Fashion Output](http://127.0.0.1:5000)
 
 ## 📁 Folder Structure
